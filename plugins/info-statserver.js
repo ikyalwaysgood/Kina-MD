@@ -62,7 +62,7 @@ Internet IN : *${netsIn}*
 Internet OUT : *${netsOut}*
 `
 
-conn.sendMessage(m.chat,{ image :{ url : "https://telegra.ph/file/ec8cf04e3a2890d3dce9c.jpg" } , caption : txt }, { quoted: m })
+conn.sendMessage(m.chat,{ image :{ url : "https://telegra.ph/file/da3dd014f4481e4bbd089.jpg" } , caption : txt }, { quoted: m })
         console.log(OS)
     } catch (e) {
         console.log(e)
