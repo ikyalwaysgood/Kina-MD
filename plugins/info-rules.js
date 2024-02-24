@@ -2,52 +2,88 @@ let handler = async (m, { conn }) => {
 
   if (m.sender.startsWith('62') || m.sender.startsWith('+62')) {
     var txt = `
-(Indonesian)
-**Ketentuan Layanan (TOS) - Nao-MD ESM**
-Dengan menggunakan Nao-MD ESM, Anda setuju dengan ketentuan berikut:
+Hallo Semua 👋🏻
+╭─ *DAFTAR LIST BIKIN BOT* 🛒
+├────── *PREMIUM*──────
+├ _*Khusus Bot pake nomor sendiri*_
+│• _1 Minggu / Rp 15.000_
+│• _2 Minggu / Rp 30.000_
+│• _1 Bulan / Rp 50.000_
+│• _2 Bulan / Rp 95.000_
+╰────────────────────
 
-1. **Penafian Tanggung Jawab:**
-   Sebagai pengembang Nao-MD ESM, saya sebagai developer (${global.author}) tidak bertanggung jawab atas penggunaan Nao-MD ESM oleh pengguna, dalam bentuk atau cara apapun. Pengguna sepenuhnya bertanggung jawab atas tindakan mereka saat menggunakan layanan ini.
+*• KEUNTUNGAN !!!*
 
-2. **Tanpa Jaminan:**
-   Nao-MD ESM disediakan "sebagaimana adanya" tanpa jaminan apa pun, baik secara tersurat maupun tersirat. Saya tidak menjamin akurasi, kehandalan, atau kesesuaian layanan untuk tujuan tertentu.
+- Bisa Request Owner
+- Request Nama Bot Kalian
+- Terima Jadi Tanpa Ribet
+- Lengkap AI
+- Push Kontak 
+- Play Musik
+- Bisa buat sticker
+- Bisa Isi tugas sekolah semua pelajaran 
+- Bisa Bikin Jaga Grub Antilink dll.
+- Bisa Main Bot Chat Group/ Privat
+- Bisa Download Vidio Sosmed
+- Bisa Nemenin Ngobrol 
+- Dll.
 
-3. **Risiko Penggunaan:**
-   Pengguna mengakui bahwa penggunaan Nao-MD ESM dapat melibatkan risiko, dan mereka setuju untuk menggunakan layanan ini atas risiko mereka sendiri. Saya tidak bertanggung jawab atas konsekuensi yang timbul dari penggunaan layanan ini.
+╭═══════════════════════
+║╭──❉ 〔 𝐕𝐈𝐀 𝐌𝐎𝐁𝐈𝐋𝐄 〕 ❉──────
+║│➸ *DANA* : 085794908894
+║│➸ *PULSA*: 083164864536
+║│➸ *GOPAY*: 085794908894
+║╰─────────────────────
+╰═══════════════════════
+Jangan melakukan pembayaran sebelum chat saya!!!
 
-4. **Perubahan Ketentuan:**
-   Saya berhak mengubah atau merevisi ketentuan ini kapan saja. Pengguna bertanggung jawab untuk memeriksa ketentuan ini secara berkala untuk pembaruan.
+• *Contact person Owner:*👇🏻
+https://wa.me/6285794908894?text=Pesan+Bot+WhatsApp+Bang
 
-Dengan menggunakan Nao-MD ESM, Anda menunjukkan penerimaan Anda terhadap ketentuan ini. Jika Anda tidak setuju dengan ketentuan ini, harap hindari penggunaan Nao-MD ESM.
-
-Untuk pertanyaan atau kekhawatiran, hubungi saya di (+${global.nomorown}).
-
-*Ketentuan ini terakhir diperbarui pada 26 Desember 2023.*
+_Klik link di atas buat pesan Bot_
 `
   } else {
 
     txt = `
-(English)
-**Term of Service (TOS) - Nao-MD ESM**
-By using Nao-MD ESM, you agree to the following terms:
+Hallo Semua 👋🏻
+╭─ *DAFTAR LIST BIKIN BOT* 🛒
+├────── *PREMIUM*──────
+├ _*Khusus Bot pake nomor sendiri*_
+│• _1 Minggu / Rp 15.000_
+│• _2 Minggu / Rp 30.000_
+│• _1 Bulan / Rp 50.000_
+│• _2 Bulan / Rp 95.000_
+╰────────────────────
 
-1. **Disclaimer of Liability:**
-   As the developer of Nao-MD ESM, I as developer (${global.author}) do not assume any responsibility or liability for the usage of Nao-MD ESM by any user, in any form or manner. Users are solely responsible for their actions while using this service.
+*• KEUNTUNGAN !!!*
 
-2. **No Warranty:**
-   Nao-MD ESM is provided "as is" without any warranty of any kind, either expressed or implied. I do not guarantee the accuracy, reliability, or suitability of the service for any purpose.
+- Bisa Request Owner
+- Request Nama Bot Kalian
+- Terima Jadi Tanpa Ribet
+- Lengkap AI
+- Push Kontak 
+- Play Musik
+- Bisa buat sticker
+- Bisa Isi tugas sekolah semua pelajaran 
+- Bisa Bikin Jaga Grub Antilink dll.
+- Bisa Main Bot Chat Group/ Privat
+- Bisa Download Vidio Sosmed
+- Bisa Nemenin Ngobrol 
+- Dll.
 
-3. **Usage Risks:**
-   Users acknowledge that the use of Nao-MD ESM may involve risks, and they agree to use it at their own discretion. I am not responsible for any consequences resulting from the use of this service.
+╭═══════════════════════
+║╭──❉ 〔 𝐕𝐈𝐀 𝐌𝐎𝐁𝐈𝐋𝐄 〕 ❉──────
+║│➸ *DANA* : 085794908894
+║│➸ *PULSA*: 083164864536
+║│➸ *GOPAY*: 085794908894
+║╰─────────────────────
+╰═══════════════════════
+Jangan melakukan pembayaran sebelum chat saya!!!
 
-4. **Changes to Terms:**
-   I reserve the right to modify or revise these terms at any time. Users are responsible for checking these terms regularly for updates.
+• *Contact person Owner:*👇🏻
+https://wa.me/6285794908894?text=Pesan+Bot+WhatsApp+Bang
 
-By using Nao-MD ESM, you indicate your acceptance of these terms. If you do not agree with these terms, please refrain from using Nao-MD ESM.
-
-For any inquiries or concerns, please contact me at (${global.nomorown}).
-
-*This TOS was last updated on 26 December 2023.*
+_Klik link di atas buat pesan Bot_
 `
   }
 
