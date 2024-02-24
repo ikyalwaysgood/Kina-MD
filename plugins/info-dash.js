@@ -24,7 +24,7 @@ let handler = async (m, {
                     previewType: 0,
                     renderLargerThumbnail: true,
                     thumbnailUrl: 'https://telegra.ph/file/da3dd014f4481e4bbd089.jpg',
-                    sourceUrl: ''
+                    sourceUrl: 'https://whatsapp.com/channel/0029VaACVbGDuMRk7zy6vI3a'
                 }
             }, mentions: [m.sender]
         }
