@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://telegra.ph/file/464357a0abe55bb87924d.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/464357a0abe55bb87924d.jpg" width="50%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">Kιɳα Bσƚ</h1>
 
