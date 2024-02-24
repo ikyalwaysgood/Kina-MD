@@ -23,7 +23,7 @@ let handler = async (m, {
                     mediaType: 1,
                     previewType: 0,
                     renderLargerThumbnail: true,
-                    thumbnailUrl: 'https://telegra.ph/file/c43ee155efc11b774bee3.jpg',
+                    thumbnailUrl: 'https://telegra.ph/file/da3dd014f4481e4bbd089.jpg',
                     sourceUrl: ''
                 }
             }, mentions: [m.sender]
