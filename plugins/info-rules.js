@@ -77,16 +77,16 @@ For any inquiries or concerns, please contact me at (${global.nomorown}).
           mediaType: 1,
           previewType: 0,
           renderLargerThumbnail: true,
-          thumbnailUrl: 'https://telegra.ph/file/14a7745f434cd21e900d6.jpg',
-          sourceUrl: 'https://www.instagram.com/ryzen_vermillion',
+          thumbnailUrl: 'https://telegra.ph/file/da3dd014f4481e4bbd089.jpg',
+          sourceUrl: 'https://whatsapp.com/channel/0029VaACVbGDuMRk7zy6vI3a',
         }
       }, mentions: [m.sender]
     }
   }, { quoted: fkon });
 }
 
-handler.help = ['rules']
+handler.help = ['promosi']
 handler.tags = ['info']
-handler.command = /^(rules|tos|peraturan)$/i
+handler.command = /^(promosi)$/i
 
 export default handler
