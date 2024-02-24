@@ -1,11 +1,11 @@
 <p align="center">
     <img src="./media/own.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Nao-MD ESM</h1>
+<h1 align="center">Kιɳα Bσƚ</h1>
 
 </p>
 <p align="center">
-<a href="https://github.com/ShirokamiRyzen"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ShirokamiRyzen-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/ShirokamiRyzen"><img title="Author" src="https://telegra.ph/file/da3dd014f4481e4bbd089.jpg"></a>
 
 ##
 <p align="center">
