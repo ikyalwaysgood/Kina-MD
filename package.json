@@ -1,7 +1,7 @@
 {
-    "name": "shirokami-ryzen",
+    "name": "Kina-MD",
     "version": "8.0.0",
-    "description": "Nao-MD By Ryzen",
+    "description": "Kina-MD By Iky Official",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -19,11 +19,12 @@
         "whatsapp",
         "js-whatsapp",
         "whatsapp",
-        "wabot-aq"
+        "wabot-aq",
+        "Iky Official"
     ],
     "homepage": "https://github.com/ShirokamiRyzen",
     "author": {
-        "name": "ShirokamiRyzen"
+        "name": "Iky Official"
     },
     "repository": {
         "type": "git",
