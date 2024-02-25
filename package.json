@@ -22,16 +22,16 @@
         "wabot-aq",
         "Iky Official"
     ],
-    "homepage": "https://github.com/ShirokamiRyzen",
+    "homepage": "https://github.com/ikyalwaysgood/Kina-MD",
     "author": {
         "name": "Iky Official"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ShirokamiRyzen"
+        "url": "git+https://github.com/ikyalwaysgood/Kina-MD"
     },
     "bugs": {
-        "url": "https://github.com/ShirokamiRyzen"
+        "url": "https://github.com/ikyalwaysgood/Kina-MD"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
