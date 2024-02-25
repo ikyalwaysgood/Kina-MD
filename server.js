@@ -16,7 +16,7 @@ function connect(PORT) {
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="icon" href="https://avatars.githubusercontent.com/u/76462435?s=400&u=a8207729fb6ec02ecb92f3477e6d13b022b3f52a&v=4" type="image/x-icon">
         <link rel="shortcut icon" href="https://avatars.githubusercontent.com/u/76462435?s=400&u=a8207729fb6ec02ecb92f3477e6d13b022b3f52a&v=4" type="image/x-icon">
-        <title>Nao-MD Bot</title>
+        <title>Kina-MD</title>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
         <style>
             body {
@@ -56,7 +56,7 @@ function connect(PORT) {
     </head>
     <body>
     <div id="clock-container">
-    <div id="name">Shirokami Ryzen</div>
+    <div id="name">Iky Official</div>
     <div id="clock-wib"></div>
     <div id="clock-wita"></div>
     <div id="clock-wit"></div>
@@ -66,7 +66,7 @@ function connect(PORT) {
     </div>
         
         <div class="container text-center">
-            <a href="https://wa.me/6285864034767" class="btn btn-custom btn-primary" target="_blank">Use Bot</a>
+            <a href="https://wa.me/6285794908894" class="btn btn-custom btn-primary" target="_blank">Use Bot</a>
         </div>
     <br>
         <div class="container text-center">
